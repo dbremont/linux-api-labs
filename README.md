@@ -6,4 +6,5 @@
 
 ## 📚 References  
 
-- ...
+- [Linux](https://righteous-guardian-68f.notion.site/Linux-209b52ec1fc445859ec7d91d37e2f42b?pvs=4)
+- [Linux Study Guide](https://righteous-guardian-68f.notion.site/Linux-Study-Guide-19ac0f5171ec80a3ac79c3c13a7ee204?pvs=4)
